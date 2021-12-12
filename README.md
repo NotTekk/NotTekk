@@ -1,4 +1,4 @@
-<head style="center">[![Header](media/giphy.gif "Header")](https://tr3ntu.com/)</head>
+[![Header](media/giphy.gif "Header")](https://tr3ntu.com/)
 
 ### Hi there 👋
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago! Also know as Tr3ntu on the interwebs~</h1>
 <h3 align="center">I'm a Full Stack Developer with a deep love for pentest and Java :)</h3>
 
-<p align="center"> [<img src="media/giphy.gif" alt="tr3ntu">](https://tr3ntu.com)</p>
+<p align="center"> <a href="https://tr3ntu.com"><img src="media/giphy.gif" alt="tr3ntu"></a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tr3ntu&label=Profile%20views&color=0e75b6&style=flat" alt="tr3ntu" /> </p>
 

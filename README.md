@@ -1,4 +1,4 @@
-[![Header](https://github.com/Tr3ntu/Tr3ntu/blob/be90b47c1daa216d089a8e96af477bc291783a12/contents/giphy.gif "Header")](https://some-url.dev/)
+[![Header](https://github.com/Tr3ntu/Tr3ntu/blob/3ada48cea9ab797a96e4428ab48c3dc20e9ad398/contents/giphy.gif "Header")](https://tr3ntu.com/)
 
 ### Hi there 👋
 

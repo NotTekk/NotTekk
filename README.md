@@ -1,4 +1,4 @@
-[center][![Header](media/giphy.gif "Header")](https://tr3ntu.com/)
+[![Header](media/giphy.gif "Header")](https://tr3ntu.com/)
 
 ### Hi there 👋
 

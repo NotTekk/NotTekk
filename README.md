@@ -1,3 +1,5 @@
+[![Header](https://github.com/Tr3ntu/Tr3ntu/blob/be90b47c1daa216d089a8e96af477bc291783a12/contents/giphy.gif "Header")](https://some-url.dev/)
+
 ### Hi there 👋
 
 <!--

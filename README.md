@@ -7,11 +7,11 @@
 
 <p align="center"> <a href="https://twitter.com/tr3ntu" target="blank"><img src="https://img.shields.io/twitter/follow/tr3ntu?logo=twitter&style=for-the-badge" alt="tr3ntu" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Lua**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tr3ntu](https://github.com/Tr3ntu)
 
-- 💬 Ask me about **Java, Phyton, JDA and how to explode the Death Star**
+- 💬 Ask me about **Java, Phyton, and how to explode the Death Star**
 
 - 📫 How to reach me **mail@tr3ntu.com**
 

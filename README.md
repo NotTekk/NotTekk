@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiago! Also know as Tr3ntu on the interwebs~</h1>
+<h1 align="center">Hi 👋, I'm Tr3ntu on the interwebs~</h1>
 <h3 align="center">I'm a Full Stack Software Engineer with a deep love for pentest and Java :)</h3>
 
 <p align="center"> <a href="https://tr3ntu.com"><img src="media/giphy.gif" alt="tr3ntu"></a></p>

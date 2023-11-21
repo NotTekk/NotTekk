@@ -1,23 +1,18 @@
-<h1 align="center">Hi 👋, I'm Tr3ntu on the interwebs~</h1>
+<h1 align="center">Hi 👋, I'm Tekren on the interwebs~</h1>
 <h3 align="center">I'm a Full Stack Software Engineer with a deep love for pentest and Java :)</h3>
 
-<p align="center"> <a href="https://tr3ntu.com"><img src="media/giphy.gif" alt="tr3ntu"></a></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tr3ntu&label=Profile%20views&color=0e75b6&style=flat" alt="tr3ntu" /> </p>
-
-<p align="center"> <a href="https://twitter.com/tr3ntu" target="blank"><img src="https://img.shields.io/twitter/follow/tr3ntu?logo=twitter&style=for-the-badge" alt="tr3ntu" /></a> </p>
+<p align="center"> <a href="https://nottek.dev"><img src="media/giphy.gif" alt="Tekr3n"></a></p>
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tr3ntu](https://github.com/Tr3ntu)
+- 👨‍💻 All of my projects are available at [https://github.com/Tekr3n](https://github.com/Tekr3n)
 
 - 💬 Ask me about **Java, C#, JS, and how to explode the Death Star**
 
-- 📫 How to reach me **mail@tr3ntu.com**
+- 📫 How to reach me **hello@nottek.dev**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tr3ntu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tr3ntu" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/thiagolbenk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagolbenk" height="30" width="40" /></a>
 </p>
 

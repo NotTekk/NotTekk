@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tekren on the interwebs~</h1>
+<h1 align="center">Hi 👋, I'm NotTekk on the interwebs~</h1>
 <h3 align="center">I'm a Full Stack Software Engineer with a deep love for pentest and Java :)</h3>
 
 <p align="center"> <a href="https://nottek.dev"><img src="media/giphy.gif" alt="Tekr3n"></a></p>

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tekr3n](https://github.com/Tekr3n)
+- 👨‍💻 All of my projects are available at [https://github.com/NotTekk](https://github.com/NotTekk)
 
 - 💬 Ask me about **Java, C#, JS, and how to explode the Death Star**
 

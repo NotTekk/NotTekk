@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, C#, JS, and how to explode the Death Star**
 
-- 📫 How to reach me **hello@nottek.dev**
+- 📫 How to reach me **hello@nottekk.dev**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

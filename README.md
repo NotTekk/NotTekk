@@ -24,10 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NotTekk&icon=0&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/NotTekk) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/NotTekk) 
-
-  
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotTekk&show_icons=true&locale=en" alt="nottekk" /></p>
+## 💰 You can help me by Donating
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/NotTekk) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/NotTekk) 
 

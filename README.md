@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tekk on the interwebs~</h1>
-
 # 💫 About Me:
 🌱 I’m currently learning Kotlin<br>👨‍💻 All of my projects are available at https://github.com/NotTekk<br>💬 Ask me about Java, C#, JS, and how to explode the Death Star<br>📫 How to reach me hello@nottekk.dev
 

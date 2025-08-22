@@ -56,13 +56,12 @@
 
   ![](https://github-profile-trophy.vercel.app/?username=NotTekk&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
   ![](https://github-contributor-stats.vercel.app/api?username=NotTekk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
 
 ---
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 [![](https://visitcount.itsvg.in/api?id=NotTekk&icon=0&color=13)](https://visitcount.itsvg.in)
 
 ## 💜 Support

@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Thiago (aka **NotTekk**)
+# 👋 Hi, I’m Thiago 
 
 > Senior software engineer across **Java/Kotlin/C#/Go/Python** — platform-minded, cloud-native, and AI-curious. Built for regulated/mission-critical domains.
 

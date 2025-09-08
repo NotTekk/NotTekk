@@ -74,7 +74,7 @@
 
 ---
 
-## 🧭 What I bring (Siemens-ready)
+## 🧭 What I bring
 - **Platform mindset:** service boundaries, observability, SLOs/SLIs, and boring-when-it-ships reliability.
 - **Cloud-native:** Docker/Kubernetes, Gradle builds, IaC-friendly repos, and CI pipelines that don’t flake.
 - **Safety & quality:** testability, least-privilege defaults, clear docs/ADRs, and traceability across the stack.

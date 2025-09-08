@@ -9,14 +9,6 @@
 
 ---
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qzB37WS5AT)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiago.benk)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19381567/nottekk)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nottekk)
-
----
-
 ## 🚀 Featured Projects
 > Recent, open-core, and actively evolving. Each repo includes architecture notes, issues, and a pragmatic roadmap.
 

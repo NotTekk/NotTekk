@@ -13,7 +13,7 @@
 > Recent, open-core, and actively evolving. Each repo includes architecture notes, issues, and a pragmatic roadmap.
 
 ### NithronOS — Local-first HomeLab/NAS OS
-[github.com/Nithronverse/NithronOS](https://github.com/Nithron/NithronOS)  
+[github.com/Nithron/NithronOS](https://github.com/Nithron/NithronOS)  
 ![Stars](https://img.shields.io/github/stars/Nithron/NithronOS?style=flat) ![Issues](https://img.shields.io/github/issues/Nithron/NithronOS?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/Nithron/NithronOS?style=flat)
 - **Goal:** A dependable, Debian-based, local-first OS for homelabs/NAS with clean UX and sane defaults.
 - **Focus:** Modular services, container-first workflows, reproducible builds, clear upgrade paths.
@@ -22,7 +22,7 @@
 ---
 
 ### NithronAI (nAI) — Modular AI Platform Seed
-[github.com/Nithronverse/NithronAI](https://github.com/Nithron/NithronAI)  
+[github.com/Nithron/NithronAI](https://github.com/Nithron/NithronAI)  
 ![Stars](https://img.shields.io/github/stars/Nithron/NithronAI?style=flat) ![Issues](https://img.shields.io/github/issues/Nithron/NithronAI?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/Nithron/NithronAI?style=flat)
 - **Goal:** A practical foundation for AI workloads: model serving, orchestration hooks, and evaluation loops.
 - **Focus:** Service boundaries, clean interfaces (Java/Kotlin backends with Python bridges), observability from day one.
@@ -31,7 +31,7 @@
 ---
 
 ### NIRO-backend — Aviation Ops / EFB Platform (Backend)
-[github.com/Nithronverse/NIRO-backend](https://github.com/Nithron/NIRO-backend)  
+[github.com/Nithron/NIRO-backend](https://github.com/Nithron/NIRO-backend)  
 ![Stars](https://img.shields.io/github/stars/Nithron/NIRO-backend?style=flat) ![Issues](https://img.shields.io/github/issues/Nithron/NIRO-backend?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/Nithron/NIRO-backend?style=flat)
 - **Goal:** Backend for an aviation operations/EFB platform with clear domain boundaries and robust auth.
 - **Focus:** API design, role-based access, testability, and a reliability-first approach suited to regulated contexts.

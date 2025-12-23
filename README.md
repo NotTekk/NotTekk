@@ -179,7 +179,7 @@ Java 24 + Gradle bot with moderation, music, AI features, web panel, and Patreon
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NotTekk&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=NotTekk&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak" />
 
 <details>
 <summary><b>📈 More stats</b></summary>

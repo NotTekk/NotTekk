@@ -1,97 +1,215 @@
-# 👋 Hi, I’m Thiago 
+<div align="center">
 
-> Senior software engineer across **Java/Kotlin/C#/Go/Python** — platform-minded, cloud-native, and AI-curious. Built for regulated/mission-critical domains.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Thiago%20Benkendorf&fontSize=42&fontColor=e94560&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Architect%20%E2%80%A2%20Founder&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn)
 
-- 🌱 Deepening **Kotlin** + platform architecture
-- 💬 Ask me about **Java, C#, JS**, CI/CD, and shipping reliable services (…or how to *explode the Death Star* 🔧🛰️)
-- 👨‍💻 All my work lives at **github.com/NotTekk** && **github.com/Nithronverse**
-- 📫 **[hello@nottekk.dev](mailto:hello@nottekk.dev)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&random=false&width=600&lines=Building+production-grade+systems;Platform+architecture+%26+cloud-native+design;Founder+of+Nithron+%7C+nithron.com)](https://nithron.com)
 
----
+<a href="https://nithron.com"><img src="https://img.shields.io/badge/Nithron-Studio-e94560?style=for-the-badge&labelColor=1a1a2e" alt="Nithron"></a>
+<a href="mailto:hello@nottekk.dev"><img src="https://img.shields.io/badge/Contact-hello@nottekk.dev-16213e?style=for-the-badge&labelColor=1a1a2e" alt="Email"></a>
+<a href="https://github.com/Nithronverse"><img src="https://img.shields.io/badge/Org-Nithronverse-0f3460?style=for-the-badge&labelColor=1a1a2e" alt="Nithronverse"></a>
 
-## 🚀 Featured Projects
-> Recent, open-core, and actively evolving. Each repo includes architecture notes, issues, and a pragmatic roadmap.
-
-### NithronOS — Local-first HomeLab/NAS OS
-[github.com/Nithron/NithronOS](https://github.com/Nithron/NithronOS)  
-![Stars](https://img.shields.io/github/stars/Nithron/NithronOS?style=flat) ![Issues](https://img.shields.io/github/issues/Nithron/NithronOS?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/Nithron/NithronOS?style=flat)
-- **Goal:** A dependable, Debian-based, local-first OS for homelabs/NAS with clean UX and sane defaults.
-- **Focus:** Modular services, container-first workflows, reproducible builds, clear upgrade paths.
-- **Why it matters:** Reliability + maintainability at the edge — the same mindset I bring to industrial software.
+</div>
 
 ---
 
-### NithronAI (nAI) — Modular AI Platform Seed
-[github.com/Nithron/NithronAI](https://github.com/Nithron/NithronAI)  
-![Stars](https://img.shields.io/github/stars/Nithron/NithronAI?style=flat) ![Issues](https://img.shields.io/github/issues/Nithron/NithronAI?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/Nithron/NithronAI?style=flat)
-- **Goal:** A practical foundation for AI workloads: model serving, orchestration hooks, and evaluation loops.
-- **Focus:** Service boundaries, clean interfaces (Java/Kotlin backends with Python bridges), observability from day one.
-- **Why it matters:** Maps directly to **AI platform development** challenges—governance, scale, and developer ergonomics.
+## `$ whoami`
+
+```kotlin
+val thiago = SoftwareEngineer(
+    location = "Berlin, Germany",
+    focus = listOf("Backend Systems", "Platform Architecture", "Cloud-Native"),
+    languages = mapOf(
+        "daily" to listOf("Java", "Kotlin", "Go", "Python"),
+        "when needed" to listOf("C#", "TypeScript", "Rust")
+    ),
+    philosophy = "Boring when it ships. Reliable when it runs."
+)
+```
+
+> I build backend-heavy systems, APIs, and infrastructure that scale. Currently running **[Nithron](https://nithron.com)** — an independent software studio delivering architecture, cloud platforms, and production-ready engineering.
 
 ---
 
-### NIRO-backend — Aviation Ops / EFB Platform (Backend)
-[github.com/Nithron/NIRO-backend](https://github.com/Nithron/NIRO-backend)  
-![Stars](https://img.shields.io/github/stars/Nithron/NIRO-backend?style=flat) ![Issues](https://img.shields.io/github/issues/Nithron/NIRO-backend?style=flat) ![Last Commit](https://img.shields.io/github/last-commit/Nithron/NIRO-backend?style=flat)
-- **Goal:** Backend for an aviation operations/EFB platform with clear domain boundaries and robust auth.
-- **Focus:** API design, role-based access, testability, and a reliability-first approach suited to regulated contexts.
-- **Why it matters:** Demonstrates product thinking where correctness and traceability are non-negotiable.
+## `// what I'm building`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ NithronOS
+
+**Local-first HomeLab/NAS OS**
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Nithron/NithronOS)
+![Stars](https://img.shields.io/github/stars/Nithron/NithronOS?style=flat-square&color=e94560&labelColor=1a1a2e)
+![Last Commit](https://img.shields.io/github/last-commit/Nithron/NithronOS?style=flat-square&color=0f3460&labelColor=1a1a2e)
+
+Debian-based, container-first OS for homelabs. Modular services, reproducible builds, clean upgrade paths.
+
+`Go` `Debian` `Docker` `ZFS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 NithronAI
+
+**Modular AI Platform Starter**
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Nithron/NithronAI)
+![Stars](https://img.shields.io/github/stars/Nithron/NithronAI?style=flat-square&color=e94560&labelColor=1a1a2e)
+![Last Commit](https://img.shields.io/github/last-commit/Nithron/NithronAI?style=flat-square&color=0f3460&labelColor=1a1a2e)
+
+FastAPI backend + web UI for RAG-style Q&A. Offline by default, clean service boundaries.
+
+`Python` `FastAPI` `LangChain` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ NIRO
+
+**Aviation Ops / EFB Platform**
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/Nithron/NIRO-backend)
+![Stars](https://img.shields.io/github/stars/Nithron/NIRO-backend?style=flat-square&color=e94560&labelColor=1a1a2e)
+![Last Commit](https://img.shields.io/github/last-commit/Nithron/NIRO-backend?style=flat-square&color=0f3460&labelColor=1a1a2e)
+
+Backend for electronic flight bag operations. Role-based access, audit trails, reliability-first.
+
+`Java` `Kotlin` `PostgreSQL` `REST`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ NotVolt-NEO
+
+**All-in-One Discord Bot**
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=flat-square&logo=github)](https://github.com/NotTekk/NotVolt-NEO)
+![Stars](https://img.shields.io/github/stars/NotTekk/NotVolt-NEO?style=flat-square&color=e94560&labelColor=1a1a2e)
+![Last Commit](https://img.shields.io/github/last-commit/NotTekk/NotVolt-NEO?style=flat-square&color=0f3460&labelColor=1a1a2e)
+
+Java 24 + Gradle bot with moderation, music, AI features, web panel, and Patreon integration.
+
+`Java` `LavaLink` `Gradle` `REST`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Core Tech
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+## `// nithron.com`
+
+<div align="center">
+
+[![Nithron Banner](https://img.shields.io/badge/🔧_Nithron-Independent_Software_Studio-e94560?style=for-the-badge&labelColor=1a1a2e)](https://nithron.com)
+
+</div>
+
+**What we deliver:**
+
+| | |
+|:--|:--|
+| **Backend Systems & APIs** | Production-ready services that power your product |
+| **Architecture & Leadership** | Clear system design for complex builds |
+| **Cloud & Platform** | Secure infrastructure, automation, calm operations |
+| **Data & Integrations** | Fast, reliable data layers across your stack |
+| **Security Hardening** | Practical improvements without slowing delivery |
+
+> *"Lean, senior-led engineering. From discovery to launch."*
+
+---
+
+## `// tech stack`
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-e94560?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+</div>
 
 <details>
-  <summary>🧱 Full toolbox (click to expand)</summary>
+<summary><b>🔧 Full toolkit</b></summary>
+<br>
 
-  <!-- Preserved from your original -->
-  
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+**Languages:** C · C++ · Go · Java · JavaScript · Kotlin · Lua · Objective-C · Python · Ruby · Rust · TypeScript
+
+**Cloud:** AWS · Azure · GCP · Oracle Cloud · OVH
+
+**Frameworks:** Spring Boot · Quarkus · FastAPI · Node.js · React · Angular
+
+**Data:** PostgreSQL · MySQL · MariaDB · MongoDB · Redis · DynamoDB · InfluxDB · Kafka · Spark · Hadoop
+
+**DevOps:** Docker · Kubernetes · Terraform · Jenkins · GitLab CI · GitHub Actions · Nginx · Apache
+
+**Tools:** Git · Gradle · Maven · IntelliJ · VS Code · Raspberry Pi · Arduino
+
 </details>
 
 ---
 
-## 🧭 What I bring
-- **Platform mindset:** service boundaries, observability, SLOs/SLIs, and boring-when-it-ships reliability.
-- **Cloud-native:** Docker/Kubernetes, Gradle builds, IaC-friendly repos, and CI pipelines that don’t flake.
-- **Safety & quality:** testability, least-privilege defaults, clear docs/ADRs, and traceability across the stack.
-- **Developer experience:** fast local loops, reproducible environments, and a bias for clarity over cleverness.
+## `// stats`
 
----
+<div align="center">
 
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=NotTekk&theme=dark&hide_border=false)
-<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotTekk&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560)
 
 <details>
-  <summary>🏆 Trophies & Extras</summary>
+<summary><b>📈 More stats</b></summary>
+<br>
 
-  ![](https://github-profile-trophy.vercel.app/?username=NotTekk&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=NotTekk&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
 
-  ![](https://github-contributor-stats.vercel.app/api?username=NotTekk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTekk&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560)
+
 </details>
+
+</div>
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-[![](https://visitcount.itsvg.in/api?id=NotTekk&icon=0&color=13)](https://visitcount.itsvg.in)
+<div align="center">
 
-## 💜 Support
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/NotTekk)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/NotTekk)
+**Let's build something.**
+
+[![Website](https://img.shields.io/badge/nithron.com-e94560?style=for-the-badge&logo=firefox&logoColor=white)](https://nithron.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotTekk)
+[![Email](https://img.shields.io/badge/Email-0f3460?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nottekk.dev)
+
+<br>
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/NotTekk)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/NotTekk)
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer)
+
+</div>

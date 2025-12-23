@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&random=false&width=600&lines=Building+production-grade+systems;Platform+architecture+%26+cloud-native+design;Founder+of+Nithron+%7C+nithron.com)](https://nithron.com)
 
 <a href="https://nithron.com"><img src="https://img.shields.io/badge/Nithron-Studio-e94560?style=for-the-badge&labelColor=1a1a2e" alt="Nithron"></a>
-<a href="mailto:hello@nottekk.dev"><img src="https://img.shields.io/badge/Contact-hello@nottekk.dev-16213e?style=for-the-badge&labelColor=1a1a2e" alt="Email"></a>
-<a href="https://github.com/Nithronverse"><img src="https://img.shields.io/badge/Org-Nithronverse-0f3460?style=for-the-badge&labelColor=1a1a2e" alt="Nithronverse"></a>
+<a href="mailto:hello@nithron.com"><img src="https://img.shields.io/badge/Contact-hello@nithron.com-16213e?style=for-the-badge&labelColor=1a1a2e" alt="Email"></a>
+<a href="https://github.com/Nithron"><img src="https://img.shields.io/badge/Org-Nithron-0f3460?style=for-the-badge&labelColor=1a1a2e" alt="Nithron"></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ```kotlin
 val thiago = SoftwareEngineer(
-    location = "Berlin, Germany",
+    location = listOf("Murjek, Sweden", "Berlin, Germany"),
     focus = listOf("Backend Systems", "Platform Architecture", "Cloud-Native"),
     languages = mapOf(
         "daily" to listOf("Java", "Kotlin", "Go", "Python"),
@@ -179,7 +179,7 @@ Java 24 + Gradle bot with moderation, music, AI features, web panel, and Patreon
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NotTekk&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560)
+<img src="https://streak-stats.demolab.com?user=NotTekk&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak" />
 
 <details>
 <summary><b>📈 More stats</b></summary>
@@ -201,12 +201,11 @@ Java 24 + Gradle bot with moderation, music, AI features, web panel, and Patreon
 
 [![Website](https://img.shields.io/badge/nithron.com-e94560?style=for-the-badge&logo=firefox&logoColor=white)](https://nithron.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotTekk)
-[![Email](https://img.shields.io/badge/Email-0f3460?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nottekk.dev)
+[![Email](https://img.shields.io/badge/Email-0f3460?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nithron.com)
 
 <br>
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/NotTekk)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/NotTekk)
+[![Patreon](https://img.shields.io/badge/Support_Nithron-F96854?style=flat-square&logo=patreon&logoColor=white)](https://patreon.com/nithron)
 
 <br>
 
